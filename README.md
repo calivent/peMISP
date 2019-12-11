@@ -25,4 +25,4 @@ We are currently consolidating the documentation, so it will be updated often.
 This code is the first version of MISP. (previously known as CyDefSIG)
 Feel free to look at the develop branch to look the very new features that will come.
 
-Error: en This script cannot be run as a root.
+Error: en This script cannot be run as a root. este error sale en Ubuntu y Debian
