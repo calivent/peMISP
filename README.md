@@ -19,10 +19,7 @@ To have a better idea what the platform does have a look at the PDF files in the
 
 Documentation
 -------------
-Make sure you read the documentation in the INSTALL directory.
-We are currently consolidating the documentation, so it will be updated often.
-
-This code is the first version of MISP. (previously known as CyDefSIG)
-Feel free to look at the develop branch to look the very new features that will come.
+Asegúrese de leer la documentación en el directorio INSTALL. Actualmente estamos consolidando la documentación, por lo que se actualizará con frecuencia.
+Este código es la primera versión de MISP. (anteriormente conocido como CyDefSIG) Siéntase libre de mirar la rama de desarrollo para ver las nuevas características que vendrán.
 
 Error: en "This script cannot be run as a root". este error sale en Ubuntu y Debian
